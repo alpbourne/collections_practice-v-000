@@ -20,6 +20,6 @@ def swap_elements(array)
   end
 end
 
-def reverse.array(array)
+def reverse_array(array)
   array.reverse
 end
